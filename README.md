@@ -57,7 +57,7 @@ Host: localhost:8072
 
 ## Docker Support
 
-You can pull the Docker image from [Docker Image](docker pull bikashmahapatra/disposiblemail:latest)
+You can pull the Docker image from [Docker Image](https://hub.docker.com/r/bikashmahapatra/disposiblemail/tags)
 
 ## Contributing
 
