@@ -55,6 +55,10 @@ Host: localhost:8072
 - Gradle
 - opencsv
 
+## Docker Support
+
+You can pull the Docker image from [Docker Image](docker pull bikashmahapatra/disposiblemail:latest)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
